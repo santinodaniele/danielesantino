@@ -1,5 +1,5 @@
 ## Repo che contiene il mio portfolio.
-## Il mio sito web disponibile è qui:
+## Collegamento al mio sito web
 https://santinodaniele.github.io/danielesantino/
 ## Il template è stato progettato da DevFolio ed è disponibile qui: 
 https://bootstrapmade.com/
